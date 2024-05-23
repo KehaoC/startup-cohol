@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "6c3d6f4b6e5ef823",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a24926f0b5767d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa816466600fc43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YC-Library/How to come up with an idea?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aaeab92918cfd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5bfaa4615205acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cef423845fcd7c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4223f91ec50fec48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f352ccc92cd13d4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b0be8175e0b941dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "183d3b9768869b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8940516e06ba43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "YC-Library/How to come up with an idea?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "406d3480c3a304e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "YC-Library/How to come up with an idea?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a95ef1abccf3d2ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1636aaea8619e83b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "YC-Library/How to come up with an idea?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fa816466600fc43f",
+  "lastOpenFiles": [
+    "README.md",
+    "YC-Library/How to come up with an idea?.md",
+    "YC-Library"
+  ]
+}
