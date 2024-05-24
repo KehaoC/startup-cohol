@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YC-Library/How to come up with an idea?.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YC-Library/How to come up with an idea?.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YC-Library/How to come up with an idea?.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YC-Library/How to come up with an idea?.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "fa816466600fc43f",
   "lastOpenFiles": [
+    "Criticle Concepts/Ideas.md",
+    "Criticle Concepts/Problem.md",
     "README.md",
-    "YC-Library/How to come up with an idea?.md",
+    "Criticle Concepts",
+    "Problems/未命名.md",
+    "HomePage.md",
+    "Ideas/AI-powered Paper management system.md",
+    "Library/How to come up with an idea?.md",
+    "Solutions",
+    "Ideas",
+    "Library",
+    "Problems",
     "YC-Library"
   ]
 }

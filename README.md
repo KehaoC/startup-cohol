@@ -5,4 +5,7 @@ Feel free to let me know whatever on your mind, what if it's a 1B business!
 1. Clone this code to your local.
 2. Downloading the best editor for brainstorming - `Obsidian`, here is the official website: https://obsidian.md/. Then open the repo with obsidian.
 3. Done!
-# 
+# [[Problem]]
+# Solutions
+# [[Ideas]]
+# Library
