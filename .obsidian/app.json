@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "trashOption": "local",
-  "attachmentFolderPath": "/appendix"
+  "attachmentFolderPath": "/appendix",
+  "newLinkFormat": "relative"
 }

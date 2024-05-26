@@ -11,11 +11,9 @@
             "id": "fa816466600fc43f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Library/Hard startups.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20240526234653.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Hard startups.md",
+                "file": "appendix/Pasted image 20240526234653.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Hard startups.md",
+                "file": "appendix/Pasted image 20240526234653.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Hard startups.md"
+                "file": "appendix/Pasted image 20240526234653.png"
               }
             }
           }
@@ -148,9 +146,11 @@
   },
   "active": "fa816466600fc43f",
   "lastOpenFiles": [
-    "Library/How to come up with an idea?.md",
-    "Library/Hard startups.md",
     "README.md",
+    "appendix/Pasted image 20240526234653.png",
+    "appendix",
+    "Library/Hard startups.md",
+    "Library/How to come up with an idea?.md",
     "Ideas/AI-Powered Chinese Talker.md",
     "Criticle Concepts/Ideas.md",
     "Criticle Concepts/Problem.md",
