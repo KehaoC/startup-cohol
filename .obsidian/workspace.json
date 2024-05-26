@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Library/How to come up with an idea?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Library/How to come up with an idea?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Library/How to come up with an idea?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Library/How to come up with an idea?.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "fa816466600fc43f",
   "lastOpenFiles": [
+    "README.md",
+    "Ideas/AI-Powered Chinese Talker.md",
     "Criticle Concepts/Ideas.md",
     "Criticle Concepts/Problem.md",
-    "README.md",
     "Criticle Concepts",
     "Problems/未命名.md",
     "HomePage.md",

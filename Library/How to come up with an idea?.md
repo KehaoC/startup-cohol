@@ -16,6 +16,25 @@ We are trying to introduce the **Syllogism** method to address the ==TUI LI== pr
 I can't wait. That's why the repo exists!
 # 2 Standard of idea
 left...When I got just one idea.
+
+> Some criterion about ideas:
+> 1. How big is the market? Or the market is booming fast like cryptocurrency?
+> 2. Founder-Market Fit, which means are you the right person or even the only person who could do it well?
+> 3. **How sure** are you that you're solving a **big problem**? Ideally, you'd experienced the problem.
+> 4. Are you making things that **you personally want**?
+> 5. If something newly **recently became possible**, it is a chance for you to build things on top of that.
+
+> Some **FILTERS** about ideas:
+> 1. The idea seems hard to start.
+> 2. The idea seems boring.
+> 3. The idea seems too ambitious.
+> 4. There exist competitors.
+
+Yeah, I haven't any concrete ideas that could been landed into business, and i wrote down the sentence in the beginning:
+> *"left...When I got just one idea."*
+
+That's totally wrong. The best way to generate a **good idea** is to wait it bumping into your life organically. And the only way you can do is to know *What is a good idea and what is a bad one* and just wait, since you are not that hurry, right?
+
 # 3 Four Filters of Good Ideas
 > 1. The idea seems hard to get started -- schlep blindness
 > 2. Ideas in boring space.

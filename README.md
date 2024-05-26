@@ -1,4 +1,3 @@
-# startup-cohol
 Hi, its my footprints of starting a startup.
 Feel free to let me know whatever on your mind, what if it's a 1B business! 
 ## 0 How to utilize this repo?
