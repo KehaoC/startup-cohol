@@ -11,9 +11,11 @@
             "id": "fa816466600fc43f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20240526234653.png"
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20240526234653.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20240526234653.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20240526234653.png"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +148,11 @@
   },
   "active": "fa816466600fc43f",
   "lastOpenFiles": [
+    "appendix/Pasted image 20240526235057.png",
+    "appendix20240526234855.png.md",
     "README.md",
-    "appendix/Pasted image 20240526234653.png",
+    "appendix/20240526234653.png",
+    "appendix/Pasted image 20240526234855.png",
     "appendix",
     "Library/Hard startups.md",
     "Library/How to come up with an idea?.md",

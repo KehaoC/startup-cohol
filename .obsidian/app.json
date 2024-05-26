@@ -2,5 +2,8 @@
   "vimMode": true,
   "trashOption": "local",
   "attachmentFolderPath": "/appendix",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }
