@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/How to come up with an idea?.md",
+                "file": "Library/Hard startups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/How to come up with an idea?.md",
+                "file": "Library/Hard startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/How to come up with an idea?.md",
+                "file": "Library/Hard startups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/How to come up with an idea?.md"
+                "file": "Library/Hard startups.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "fa816466600fc43f",
   "lastOpenFiles": [
+    "Library/How to come up with an idea?.md",
+    "Library/Hard startups.md",
     "README.md",
     "Ideas/AI-Powered Chinese Talker.md",
     "Criticle Concepts/Ideas.md",
@@ -156,7 +158,6 @@
     "Problems/未命名.md",
     "HomePage.md",
     "Ideas/AI-powered Paper management system.md",
-    "Library/How to come up with an idea?.md",
     "Solutions",
     "Ideas",
     "Library",
