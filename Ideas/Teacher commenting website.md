@@ -1,0 +1,1 @@
+Like Shanghai Jiao Tong University's project, it is a website that every students in this uni could comment each lessons they attended and each teachers they used to contact, so others can have an overview of all this information, making there curricular selection more wisely.
