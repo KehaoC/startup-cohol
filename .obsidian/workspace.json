@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c560c4d0865aed9a",
+        "id": "b4f6a83b2eb97264",
         "type": "tabs",
         "children": [
           {
-            "id": "3008a78d56ae5fab",
+            "id": "fa776da8727a07d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Teacher commenting website.md",
+                "file": "Problems/Wires in the desktop.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Teacher commenting website.md",
+                "file": "Problems/Wires in the desktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Teacher commenting website.md",
+                "file": "Problems/Wires in the desktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Teacher commenting website.md"
+                "file": "Problems/Wires in the desktop.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3008a78d56ae5fab",
+  "active": "fa776da8727a07d7",
   "lastOpenFiles": [
+    "Library/Xiaolai-Universe.canvas",
+    "Problems/Wires in the desktop.md",
+    "appendix/Pasted image 20240602090326.png",
+    "appendix/Pasted image 20240602085737.png",
+    "appendix/Pasted image 20240602085723.png",
+    "appendix/Pasted image 20240602085418.png",
+    "appendix/Pasted image 20240602084051.png",
+    "Library/xiaolai/未命名.md",
+    "Library/xiaolai",
+    "Ideas/Token trader.md",
+    "Problems/Too much model, without a governor.md",
+    "Criticle Concepts/Problem.md",
+    "Criticle Concepts/Ideas.md",
+    "Library/Schlep Blindness.md",
+    "Ideas/SYSC.md",
     "Ideas/Teacher commenting website.md",
     "README.md",
     "问题清单.md",
@@ -159,10 +174,7 @@
     "Library/Hard startups.md",
     "Library/How to come up with an idea?.md",
     "Ideas/AI-Powered Chinese Talker.md",
-    "Criticle Concepts/Ideas.md",
-    "Criticle Concepts/Problem.md",
     "Criticle Concepts",
-    "Problems/未命名.md",
     "HomePage.md",
     "Ideas/AI-powered Paper management system.md",
     "Solutions",

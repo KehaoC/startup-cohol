@@ -1,0 +1,3 @@
+I mean phsically, the desktop. I got too many electronic devices in my desk, and most them are of high frequency to be changed, like my pocket camera, electronic watch and so on.
+
+As a result, my desk are often in a mess because of all these wires, driving me crazy...
