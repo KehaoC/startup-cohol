@@ -10,7 +10,7 @@ Obviously, everybody gotta little something, something. Some fascinating while o
 > SISP, Solution in search of Problem.
 
 Yeah, the research that I dive into for my first time is tracked by this mistakes.
-We are trying to introduce the **Syllogism** method to address the ==TUI LI== problem and improves the performance of LLMs. We seems to have a problem of low performance on ==TUI LI==, but actually it is too abstract, what we are doing is just to apply a new method to a problem that seems to be a real problem.
+We are trying to introduce the **Syllogism** method to address the ==inference== problem and improves the performance of LLMs. We seems to have a problem of low performance on ==Inference==, but actually it is too abstract, what we are doing is just to apply a new method to a problem that seems to be a real problem.
 > Startup ideas are hard to find. You just don't know how to catch them. Once you learn how to notice them, you'll see them **all over the place**.
 
 I can't wait. That's why the repo exists!
