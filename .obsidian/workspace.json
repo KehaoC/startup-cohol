@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "30012a59af38006c",
+        "id": "3864f068d5856407",
         "type": "tabs",
         "children": [
           {
-            "id": "6e507d1eb0a05662",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Library/Xiaolai-Universe.canvas",
-                "viewState": {
-                  "x": 7244.936112294063,
-                  "y": 10058.20865186473,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "108bcba8fca2026b",
+            "id": "4461571ef042115b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/How to come up with an idea?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16c3162e760ed24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/How to apply function to different forms file to generate different forms output.md",
+                "file": "Library/Venture Mindset.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/How to apply function to different forms file to generate different forms output.md",
+                "file": "Library/Venture Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/How to apply function to different forms file to generate different forms output.md",
+                "file": "Library/Venture Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/How to apply function to different forms file to generate different forms output.md"
+                "file": "Library/Venture Mindset.md"
               }
             }
           }
@@ -174,18 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16c3162e760ed24f",
+  "active": "4461571ef042115b",
   "lastOpenFiles": [
-    "笑来.md",
+    "Library/Venture Mindset.md",
+    "Problems/Washing Machine of Dishes.md",
+    "Library/Xiaolai-Universe.canvas",
+    "Library/How to come up with an idea?.md",
     "Problems/How to apply function to different forms file to generate different forms output.md",
+    "笑来.md",
     "Library/The secret of design.md",
     "Ideas/I - AI/I - AI.md",
-    "Library/How to come up with an idea?.md",
     "Ideas/I - AI/Ideation_IAI.pdf",
     "Ideas/I - AI",
     "appendix/Screenshot 2024-06-09 at 17.30.04.png",
     "appendix/Day3Homework.png",
-    "Library/Xiaolai-Universe.canvas",
     "appendix/Pasted image 20240609171837.png",
     "appendix/Screenshot 2024-06-09 at 17.13.04.png",
     "appendix/Screenshot 2024-06-09 at 16.47.15.png",
